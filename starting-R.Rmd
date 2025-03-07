@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R - PSD B"
-author: "Annisa Novi Andie"
+author: "Annisa Novi A."
 date: "07/03/2025"
 output: github_document
 
